@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Markstav – značka">
+  <g fill="#252724">
+    <rect x="0" y="0" width="20" height="9"/><rect x="22" y="0" width="10" height="9"/>
+    <rect x="0" y="11.5" width="9" height="9"/><rect x="11" y="11.5" width="21" height="9"/>
+    <rect x="0" y="23" width="20" height="9"/>
+  </g>
+  <rect fill="#A77B50" x="22" y="23" width="10" height="9"/>
+</svg>
